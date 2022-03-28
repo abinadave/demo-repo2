@@ -23,3 +23,8 @@ Watch tutorial on Youtube
 1. Very Fast System
 2. Secure
 3. Optimized and User Friendly
+
+## Contact Us Page
+
+1. for Visitors
+2. for Clients to Reach us
